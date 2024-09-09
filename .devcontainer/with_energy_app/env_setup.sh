@@ -7,7 +7,7 @@ python -m pip install -U pip
 
 # Clone home energy app
 if [ ! -d "../home-energy-analysis-tool" ]; then
-  git clone https://github.com/vladistan/home-energy-analysis-tool.git ../home-energy-analysis-tool
+  git clone https://github.com/AdamFinkle/home-energy-analysis-tool.git ../home-energy-analysis-tool
 fi
 
 # Set up the environment for the home energy app

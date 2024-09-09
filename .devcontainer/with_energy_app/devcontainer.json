@@ -15,7 +15,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "vladistan/home-energy-analysis-tool": { "permissions": "write-all" }
+        "AdamFinkle/home-energy-analysis-tool": { "permissions": "write-all" }
       },
       "openFiles": [
         "README.md"
